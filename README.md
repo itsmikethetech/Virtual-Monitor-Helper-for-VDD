@@ -1,3 +1,6 @@
+# Note: Do not use (yet).
+# Note: This is not yet modified from the original. The readme will be updated once the update is complete.
+
 # Virtual Monitor Helper
 A little system tray utility for those who wish to use Sunshine and Moonlight in conjunction with IddSampleDriver as an external display.  It ensures that Sunshine's configuration file is kept up to date with IddSampleDriver's display name and gracefully handles Windows display configuration changes.
 
